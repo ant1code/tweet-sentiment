@@ -5,7 +5,7 @@ Random forests (bootstrap=False): 0.6783155109690222
 
 DistilBERT: 0.7845
 
-BERT: 0.784578488372093
+BERT: 0.7903924418604651
 
 Tasks: 
 
