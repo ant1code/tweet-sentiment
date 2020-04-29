@@ -3,7 +3,7 @@ Tweet sentiment analytics, Introduction to Data Science Project
 
 Random forests (bootstrap=False): 0.6783155109690222
 
-DistilBERT: 0.7845
+DistilBERT: 3 epochs - 0.7845, 2 epochs - 0.7890915697674419
 
 BERT: 0.7903924418604651
 
