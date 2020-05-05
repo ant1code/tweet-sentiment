@@ -33,3 +33,4 @@ Tom - Finish BERT (possibly add another model, if time left), write a short scri
 Plot all methods in one graphs, create the slides (possibly discuss over Skype first) - maybe one slide could be some pros/cons table of all models.
 
 
+add line to README.md
