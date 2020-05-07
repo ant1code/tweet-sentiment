@@ -20,7 +20,7 @@ Through this project we hope to gain experience with Natural Language Processing
 | Random forest (bootstrap=False) | 0.7005   |
 | DistilBERT (3 epochs)           | 0.7845   |
 | DistilBERT (2 epochs)           | 0.7890   |
-| BERT                            | 0.7903   |
+| BERT (3 epochs)                 | 0.7903   |
 | Tom                             | 0.6415   |
 | Jessica                         |          |
 
