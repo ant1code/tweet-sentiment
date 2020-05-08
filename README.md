@@ -22,7 +22,7 @@ Through this project we hope to gain experience with Natural Language Processing
 | DistilBERT (2 epochs)           | 0.7890   |
 | BERT (3 epochs)                 | 0.7903   |
 | Tom                             | 0.6415   |
-| Jessica                         |          |
+| Jessica                         | 0.6333   |
 
 
 
