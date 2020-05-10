@@ -23,11 +23,3 @@ Through this project we hope to gain experience with Natural Language Processing
 | BERT (3 epochs)                 | 0.7903   |
 | Tom                             | 0.6415   |
 | Jessica                         | 0.6333   |
-
-
-
-Tasks:
-
-Tom - Finish BERT (possibly add another model, if time left), write a short script to test human-level accuracy - DONE
-
-Plot all methods in one graphs, create the slides (possibly discuss over Skype first) - maybe one slide could be some pros/cons table of all models.
